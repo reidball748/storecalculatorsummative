@@ -150,7 +150,7 @@ namespace storecalculatorsummative
             receiptGraphics.DrawString("Thanks for Shopping", receiptFont, receiptBrush, 35, 345);
             Thread.Sleep(200);
             receiptGraphics.DrawString("At Staple!", receiptFont, receiptBrush, 35, 355);
-            Thread.Sleep(200);
+            Thread.Sleep(200); 
             receiptGraphics.DrawString("Have a Nice Day", receiptFont, receiptBrush, 35, 365);
             Thread.Sleep(200);
             receiptGraphics.DrawString("and Come Again!", receiptFont, receiptBrush, 35, 375); 
